@@ -29,7 +29,7 @@ author1:
     #twitter:         jekyllrb
     #github:          qwtel/hydejack
     # download:        <url>
-    email:           ken.cheah01@gmail.com
+      email:           ken.cheah01@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -58,7 +58,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-     linkedin:        kencheah01
+      linkedin:        kencheah01
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
